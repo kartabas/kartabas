@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kartabas
-- 👀 I’m interested in none
+- 👀 I’m interested is IT programm
 - 🌱 I’m currently learning none
-- 💞️ I’m looking to collaborate on none
-- 📫 How to reach me none
+- 💞️ I’m looking to collaborate 
+
 
 <!---
 kartabas/kartabas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
