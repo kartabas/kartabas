@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kartabas
 - 👀 I’m interested is IT programm
-- 🌱 I’m currently learning none
-- 💞️ I’m looking to collaborate 
+
 
 
 <!---
