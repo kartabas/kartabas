@@ -33,6 +33,6 @@ I have been involved in various projects that demonstrate my expertise and commi
 
 ## Contact
 
-Feel free to get in touch with me if you'd like to collaborate or have any questions. You can reach me at [your.email@example.com](mailto:kartabas.content@gmail.com).
+Feel free to get in touch with me if you'd like to collaborate or have any questions. You can reach me at [kartabas.content@gmail.com](mailto:kartabas.content@gmail.com).
 
 Let's connect and create amazing backend solutions together!
