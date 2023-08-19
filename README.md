@@ -16,7 +16,16 @@ Here are some of my key skills:
 
 - **Database Management**: I am experienced in working with databases, enabling me to design efficient data storage solutions.
 
-- **Problem Solving**: I enjoy tackling complex problems and finding elegant solutions that optimize performance and functionality.
+- **Frontend Technologies**: I'm familiar with frontend technologies, including:
+  - **HTML**: I can create structured and semantic web pages.
+  - **CSS**: I can style web pages to make them visually appealing and responsive.
+  - **JavaScript (JS)**: I can add interactivity and functionality to web applications.
+
+- **MySQL**: I have expertise in MySQL, a popular relational database management system.
+
+- **Networking**: I have a good understanding of networking principles, which is crucial for web application deployment and performance optimization.
+
+- **C++**: I also have knowledge of C++, which can be beneficial for system-level programming and certain backend tasks.
 
 ## Projects
 
