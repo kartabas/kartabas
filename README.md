@@ -1,6 +1,6 @@
 # Welcome to My Profile!
 
-Hello, I'm Oleksandr Olenich, a 19 year old backend developer specializing in Java for web applications.
+Hello, I'm Oleksandr , a 19 year old backend developer specializing in Java for web applications.
 
 ## About Me
 
