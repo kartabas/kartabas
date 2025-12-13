@@ -31,21 +31,20 @@ Leading development on my own project
   <br>
   <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
   </br>
-  <h3 align="left"> Reach out To me:</h3>
+  <h3 align="center">Reach out To me:</h3>
 
-<a href="https://instagram.com/sup_shyrik">
-  <img align="left" alt="Udayveer Singh | Instagram" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/instagram.svg" />
-</a>
+  <a href="https://instagram.com/sup_shyrik">
+    <img align="center" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/instagram.svg" />
+  </a>&nbsp;&nbsp;&nbsp; 
+  <a href="mailto:kartabas2005@gmail.com">
+    <img align="center" alt="Email" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/email.svg" />
+  </a>
 </div>
 
+ <br />
+  <div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=kartabas&"  />
+  </div>
 
 
 
-<a href="mailto:kartabas2005@gmail.com">
-  <img align="left" alt="Udayveer Singh | Email" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/email.svg" />
-</a>
-
-<br />
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kartabas&"  />
-</div>
