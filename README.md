@@ -27,3 +27,6 @@ Hello, I'm Oleksandr , a 20 year old backend developer specializing in Java for 
 </a>
 
 <br />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kartabas&"  />
+</div>
