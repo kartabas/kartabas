@@ -27,10 +27,11 @@ Leading development on my own project
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
 </div>
 
-
-<br>
-<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
-</br>
+<div align="center">
+  <br>
+  <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+  </br>
+</div>
 
 <h3 align="left"> Reach out To me:</h3>
 
