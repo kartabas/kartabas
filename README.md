@@ -1,5 +1,9 @@
+# Oleksandr
+Backend developer
+## Currently
 
-Hello, I'm Oleksandr , a 20 year old backend developer specializing in Java for web applications.
+Leading development on my own project
+
 
 ###
 
