@@ -1,39 +1,29 @@
-# Welcome to My Profile!
 
-Hello, I'm Oleksandr , a 19 year old backend developer specializing in Java for web applications.
+Hello, I'm Oleksandr , a 20 year old backend developer specializing in Java for web applications.
 
-## About Me
+## Languages:
+ <img src="https://img.shields.io/badge/Java-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+ 
+## Frameworks:
+<img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-3178C6?style=for-the-badge&logo=Springboot&logoColor=white">
 
-I have a passion for crafting efficient and robust backend solutions that power modern web pages. With a strong foundation in Java, I bring a wealth of knowledge and experience to the table.
+## Technologies:
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-3DDC84?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
-## Skills
 
-Here are some of my key skills:
+<br>
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+</br>
 
-- **Java Development**: I have a solid grasp of Java, making me proficient in building scalable and high-performance backend systems.
+<h3 align="left"> Reach out To me:</h3>
 
-- **Web Development**: I specialize in creating backend components for web applications, ensuring they run smoothly and deliver a seamless user experience.
+<a href="https://instagram.com/sup_shyrik">
+  <img align="left" alt="Udayveer Singh | Instagram" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/instagram.svg" />
+</a>
 
-- **Database Management**: I am experienced in working with databases, enabling me to design efficient data storage solutions.
 
-- **Frontend Technologies**: I'm familiar with frontend technologies, including:
-  - **HTML**: I can create structured and semantic web pages.
-  - **CSS**: I can style web pages to make them visually appealing and responsive.
-  - **JavaScript (JS)**: I can add interactivity and functionality to web applications.
+<a href="mailto:kartabas2005@gmail.com">
+  <img align="left" alt="Udayveer Singh | Email" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/email.svg" />
+</a>
 
-- **MySQL**: I have expertise in MySQL, a popular relational database management system.
-
-- **Networking**: I have a good understanding of networking principles, which is crucial for web application deployment and performance optimization.
-
-- **C++**: I also have knowledge of C++, which can be beneficial for system-level programming and certain backend tasks.
-
-## Projects
-
-I have been involved in various projects that demonstrate my expertise and commitment to quality backend development. Check out my GitHub repository for a closer look at my work.
-
-## Contact
-
-Feel free to get in touch with me if you'd like to collaborate or have any questions. You can reach me at [kartabas.content@gmail.com](mailto:kartabas.content@gmail.com).
-
-Let's connect and create amazing backend solutions together!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartabas&exclude_repo=github-readme-stats,anuraghazra.github.io)
+<br />
