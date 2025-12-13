@@ -31,13 +31,14 @@ Leading development on my own project
   <br>
   <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
   </br>
-</div>
-
-<h3 align="left"> Reach out To me:</h3>
+  <h3 align="left"> Reach out To me:</h3>
 
 <a href="https://instagram.com/sup_shyrik">
   <img align="left" alt="Udayveer Singh | Instagram" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/instagram.svg" />
 </a>
+</div>
+
+
 
 
 <a href="mailto:kartabas2005@gmail.com">
