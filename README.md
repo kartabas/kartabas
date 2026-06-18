@@ -2,7 +2,7 @@
 Backend developer
 ## Currently
 
-Leading development on my own project
+I am leading the development of my own project
 
 
 ###
