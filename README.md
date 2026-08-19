@@ -25,6 +25,8 @@ I am leading the development of my own project
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" />
+
 </div>
 
 <div align="center">
@@ -33,18 +35,12 @@ I am leading the development of my own project
   </br>
   <h3 align="center">Reach out To me:</h3>
 
-  <a href="https://instagram.com/sup_shyrik">
-    <img align="center" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/instagram.svg" />
-  </a>&nbsp;&nbsp;&nbsp; 
   <a href="mailto:kartabas2005@gmail.com">
     <img align="center" alt="Email" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/email.svg" />
   </a>
 </div>
 
- <br />
-  <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=kartabas&"  />
-  </div>
+
 
 
 
