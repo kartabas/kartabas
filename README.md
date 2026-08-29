@@ -34,12 +34,6 @@ I am leading the development of my own project
 <div align="center">
   <br>
   <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
-  </br>
-  <h3 align="center">Reach out To me:</h3>
-
-  <a href="mailto:kartabas2005@gmail.com">
-    <img align="center" alt="Email" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/email.svg" />
-  </a>
 </div>
 
 
