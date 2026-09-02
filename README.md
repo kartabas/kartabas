@@ -33,9 +33,10 @@ I am leading the development of my own project
 
 </div>
 
-<div align="center">
+<div align="center" margin="0">
   <br>
-  <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+ 
+  <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXptbWN1cHh3YXNzNXlka29ndGx4aWI3NHpwZGVsc2FkcXplM2Y5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5OgQSxhzjR1t4McGc/giphy.gif width="500">
 </div>
 
 
